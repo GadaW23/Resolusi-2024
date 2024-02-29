@@ -1,0 +1,5 @@
+1.belajar github
+2.belajar js lanjutan
+3.belajar fundamental reactjs
+4.belajar reacjs dalam tahap project
+5.belajar nodejs
