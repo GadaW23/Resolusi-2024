@@ -1,5 +1,11 @@
 1.belajar github
 2.belajar js lanjutan
+   * belajar di wegodev
+   * belajar di dea afrizal
 3.belajar fundamental reactjs
+   * belajar di arrayid / nauval
+   * belajar di wpu
 4.belajar reacjs dalam tahap project
+  * belajar di wegodev
+  * belajar di coding mastery
 5.belajar nodejs
