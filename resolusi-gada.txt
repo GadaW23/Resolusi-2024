@@ -1,5 +1,10 @@
 1.belajar github
 2.belajar js lanjutan
+   * mempelajari semua video di  wpu
+   * langsung studi kasus
 3.belajar fundamental reactjs
+   * belajar dari pemula pada video arrayid/nauval
 4.belajar reacjs dalam tahap project
+   * belajar di wegodev
 5.belajar nodejs
+6.belajar next.js
